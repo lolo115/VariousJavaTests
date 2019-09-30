@@ -296,8 +296,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.App" />
-      <item itemvalue="Application.Stream1" />
       <item itemvalue="Application.ThreadPoolExample1" />
+      <item itemvalue="Application.Stream1" />
       <item itemvalue="Maven.VariousJavaTests []" />
     </list>
     <recent_temporary>
